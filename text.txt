@@ -1,0 +1,24 @@
+Welcome to the English Learning Tool!
+
+This program is designed to help you improve your English vocabulary and pronunciation in a simple and enjoyable way. It combines reading, translation, and listening so you can learn step by step.
+
+Main features of the program:
+
+1. You can open a text file and read it inside the program. A scrollbar helps you move through long articles.
+
+2. If you see a word or phrase you do not know, you can select it and add it to your personal dictionary. The dictionary shows the word together with its translation into German.
+
+3. As soon as you add a word, the program creates an audio file for it. This means you can listen to the correct pronunciation whenever you want.
+
+4. By double clicking on a word in the dictionary, the program will play its sound file. This helps you connect the written word with the spoken word.
+
+5. You can save your text and your dictionary. When you open the same text again, the program will also load the dictionary you created before.
+
+6. A status bar shows you clear messages about what the program is doing, such as saving files or adding words.
+
+7. You can play the whole text with text‑to‑speech, and stop it at any time if you want to pause.
+
+This tool is meant to be practical and easy to use. It supports you in building your vocabulary, hearing correct pronunciation, and keeping track of the words you want to learn. Try opening a text, adding a few words, and listening to them. Step by step, your English will grow stronger.
+
+Enjoy your learning journey!
+
